@@ -1,0 +1,102 @@
+body{
+	background-color: #ccc;
+	font-size: 14px;
+	font-family: Arial;
+	padding: 0;
+	margin: 0;
+	background-image: url("http://s1.favim.com/mini/201109/17/animals-background-background-repeat-beautiful-cute-146511.jpg");
+	background-repeat: repeat;
+}
+
+#site_wrapper{
+	height: 800px;
+	width: 1000px;
+	margin: 0 auto;
+}
+
+#header{
+	background-color: #02403d;
+	min-height: 50px;
+	border-radius: 15px;
+}
+
+.container{
+	width: 800px;
+	margin: 0 auto;
+}
+
+#logo{
+	color: #fff;
+	font-size: 16px;
+	padding-top: 15px;
+	font-weight: bold;
+}
+
+#menu{
+	float: right;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#menu li{
+	display: inline-block;
+	padding-top: 15px;
+	margin-left: 20px;
+}
+
+#menu li a{
+	color: #fff;
+	text-decoration: none;
+}
+
+#logo a{
+	color: #fff;
+	text-decoration: none;
+}
+
+#banner{
+	min-height: 170px;
+	background-color: #00cc33;
+	text-align: center;
+	border-radius: 15px;
+}
+
+#banner_content{
+	color: #fff;
+	font-size: 50px;
+	padding-top: 50px;
+}
+
+#content{
+	min-height: 450px;
+	background-color: #fff;
+	padding: 20px;
+	border-left: 2px solid #376092;
+	border-right: 2px solid #376092;
+	border-radius: 15px;
+}
+
+img{
+	width: 100%;
+}
+
+#footer{
+	background-color: #02403d;
+	color: #fff;
+	padding-bottom: 15px;
+	padding-top: 15px;
+	border-radius: 15px;
+}
+
+
+
+tr:nth-child(even){
+	background-color: #f2f2f2;
+}
+
+#requirements_header{
+	background-color: #7FFFd4;
+	color: #008080;
+	
+}
